@@ -9,6 +9,8 @@
 ## About me
 I'm a full-stack developer and third-year Software Engineering student at the Federal University of Technology, Owerri. I learn by breaking things apart and figuring out exactly why they broke.
 
+
+
 ## Tech stack
 **Languages**
 
@@ -65,7 +67,14 @@ I'm a full-stack developer and third-year Software Engineering student at the Fe
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
-![Solana](https://img.shields.io/badge/S
+
+
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+
+
+
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 
 
