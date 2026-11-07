@@ -86,5 +86,14 @@ I'm a full-stack developer and third-year Software Engineering student at the Fe
 - 🤖 **[Cyphra](https://cyphra-ai.vercel.app/)**: AI partner for coding, learning, research and creativity (front-end project)
 - 🍽️ **[Dabwin Cuisine](https://dabwins.vercel.app/)**: landing page for a food delivery brand, with fast ordering and chef specials
 
+
+## Hackathons
+- 🔐 **Kora Hackathon**: Holdr, an escrow-backed freelance marketplace
+- 🎓 **Hack4FUTO**: CampusFlow, a blockchain-powered clearance platform
+- 🛡️ **Beyond Access**: a fraud detection system for banks
+
+## Open to work
+I'm open to internships, freelance work, and collaborations. Reach me at [eziokwubundujenissi@gmail.com](mailto:eziokwubundujenissi@gmail.com) or through my [portfolio](https://jenissi.me).
+
 ## Beyond code
 I play piano, working through chord progressions and expanding my range one song at a time. 🎹
