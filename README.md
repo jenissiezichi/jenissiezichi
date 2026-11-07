@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="https://jenissi.me">Portfolio</a> ·
-  <a href="https://linkedin.com/in/ezichijenissi">LinkedIn</a>
+  <a href="https://linkedin.com/in/ezichijenissi">LinkedIn</a> ·
+  <a href="mailto:eziokwubundujenissi@gmail.com">Email</a>
 </p>
 
 ## About me
