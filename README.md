@@ -37,13 +37,12 @@ I'm a full-stack developer and third-year Software Engineering student at the Fe
 
 
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-
-
 ## Projects
-- 🎓 **[CampusFlow](https://github.com/CamposFlow/campusflow)**: blockchain-powered university clearance platform
-- 📬 **[Purge](https://github.com/jenissiezichi/Purge)**: open-source Gmail spam manager
+- 🎓 **[CampusFlow](https://github.com/CamposFlow/campusflow)** ([live](https://campusflow-mmt9.onrender.com/)): blockchain-powered university clearance platform
+- 📬 **[Purge](https://github.com/jenissiezichi/Purge)** ([live](https://www.purge-it.tech/)): open-source Gmail spam manager
+- 🔐 **[Holdr](https://trust-holdr.vercel.app/)**: escrow-backed freelance marketplace for Africa. Clients fund jobs upfront, freelancers browse a public job board, and payment is released on trust, not luck. Built for the Kora hackathon.
+- 🤖 **[Cyphra](https://cyphra-ai.vercel.app/)**: AI partner for coding, learning, research and creativity (front-end project)
+- 🍽️ **[Dabwin Cuisine](https://dabwins.vercel.app/)**: landing page for a food delivery brand, with fast ordering and chef specials
 
 ## Beyond code
 I play piano, working through chord progressions and expanding my range one song at a time. 🎹
